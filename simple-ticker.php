@@ -2,7 +2,7 @@
 
 /*
 	Plugin Name: Simple Ticker
-	Plugin URI: http://github.com/nasurlhazim/simple-ticker
+	Plugin URI: https://github.com/nasrulhazim/simple-ticker
 	Description: A WordPress Plugin: Simple Ticker - Display latest post
 	Version: 1.0.0
 	Author: Nasrul Hazim Bin Mohamad
